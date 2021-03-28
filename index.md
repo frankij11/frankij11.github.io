@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Cost and Schedule Estimating Suite](/CaSES)
+* Excel based add-in that adds user defined functions to assist in cost estimates
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
