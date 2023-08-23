@@ -8,7 +8,7 @@
 * Excel based add-in that adds user defined functions to assist in cost estimates
 
 ---
-[PyCost Tools](/PycostTools)
+[PyCost Tools](/PyCostTools)
 * Python based library that adds user defined functions to assist in cost estimates
 
 
